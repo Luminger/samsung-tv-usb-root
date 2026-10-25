@@ -29,6 +29,14 @@ PROFILES = {
         "flush_wrapper": 0xC0012B94,
         "coherent": 0xC001CEE8,
     },
+    "nikem": {
+        "ldm_ip": 0xC05455BC,
+        "copy_window": 0xC010F424,
+        "memcpy": 0xC020B120,
+        "save_r1": 0xC04B35D0,
+        "flush_wrapper": 0xC00128EC,
+        "coherent": 0xC001D808,
+    },
 }
 
 CAVE = 0xC0008400
